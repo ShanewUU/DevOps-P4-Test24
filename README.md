@@ -13,3 +13,5 @@ In this practical exercise you will learn how to:
 - Target different build targets using a build matrix.
 - Create build artefacts and share them between jobs.
 - Automate pull request reviews using GitHub actions.  
+
+[![Build and Test](https://github.com/ShanewUU/DevOps-P4-Test24/actions/workflows/node.js.yml/badge.svg)](https://github.com/ShanewUU/DevOps-P4-Test24/actions/workflows/node.js.yml)  
